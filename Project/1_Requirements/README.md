@@ -1,7 +1,7 @@
-# Heater System
+# V.A.I(Vehicle Ahead Indicator)
 
 ## Table of contents
-1. About Heater System
+1. About V.A.I
     1. Description
     2. Identify features
     3. 5W's &1H
@@ -9,37 +9,36 @@
 2. Requirements
     1. High level requirements
     2. Low level requirements
-3. Block diagram & exlanation
+3. Block diagram & explanation
     1. Block Diagram
     2. Sensor
-    3. Actuators
-    4. Micro controller 
-    5. Sub-system
+    3. Micro controller 
+    4. Sub-system
 4. Architecture
     1. Behavioural Diagram
     2. Structural Diagram
 5. Test plan and output
 ----
-# About heater system
+# About Vehicle Ahead Indicator
 1. Description
-- This project is an Room heater system .This system helps to keep the temperature in the room warm in colder places where the temperature is below 0 degree celsius the room has to be kept warm always.The system consist of motion sensor and temperature sensor.
+- This project is about detection of the car, in how much distance is the another car present in front of us and alertinng the driver by displaying in lcd display and signaling by different lights.Hear we use ultrasoniic sensor,leds,lcd display message.
 2. Identify features
--  Switch button shall be provided to power on or of the system
-- Motion sensor shall be provided to detect people in the room .
-- Temperature shall be increased or decreased  accoriding to nummber of people iin the room.
+-  To detect the distance between ultrasonic sensor and the object placed infront of it and display the information on Lcd
+-  To turn On the leds when the distance between the ultrasonic sensor and the object is too less
 3. 5W's & 1H
-- ![5w1h (1)](https://user-images.githubusercontent.com/98830897/155830353-2cea97d2-12e6-4a33-9ad9-e989a421ee2e.png)
+- ![5w1h (1)](https://user-images.githubusercontent.com/98830897/156866872-4124e9ae-0e3c-4c38-a19e-3abf2587cb41.png)
+
 4. SWOT Analysis
-- ![Heater_](https://user-images.githubusercontent.com/98830897/155831153-1b518036-076d-4430-844d-055be4738bd3.png)
+- ![object detection](https://user-images.githubusercontent.com/98830897/156866909-5f3c4b15-1669-4faa-abba-980ede282c85.png)
 ---
 # Requirements
 
 ## High level requirements
 |ID|Description |
 |---|----------|
-|HLR1|Detect the Temperature of the room using temperature sensors|
-|HLR2|Detect if people are present in the room|
-|HLR3|Make decisions whether to turn ON/OFF the heater|
+|HLR1|To detect distance |
+|HLR2|To turn on the leds |
+|HLR3|To dislay on LCD|
 
 ## Low level requirements
 |HLID|LLID|Description|
