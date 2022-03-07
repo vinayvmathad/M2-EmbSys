@@ -18,6 +18,7 @@
     1. Behavioural Diagram
     2. Structural Diagram
 5. Test plan and output
+    1. High level and low level test plans.
 ----
 # About Vehicle Ahead Indicator
 1. Description
