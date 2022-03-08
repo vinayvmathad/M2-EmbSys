@@ -23,8 +23,3 @@
 ## LCD display
 - To display the information weather the car is front or not. 
 
-## Actuators
-- Externally connected devices that perform operation as per the decision which the microcontroller takes. (In my case, Turn ON/Off the heater)
-
-
-
