@@ -1,6 +1,7 @@
-# Design
-- Block Diagram
+# Block Diagram
 - ![Capture 2 0](https://user-images.githubusercontent.com/98830897/156867577-ea1d8a1c-da29-4782-af62-fdc7f9776a65.PNG)
+# Flow chart
+- ![Capture](https://user-images.githubusercontent.com/98830897/157194043-fdb7df4a-d0b6-4c1d-9342-6743bf46b78e.PNG)
 
 # Components
 

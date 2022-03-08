@@ -39,7 +39,7 @@
 |---|----------|
 |HLR1|To detect distance |
 |HLR2|To turn on the leds |
-|HLR3|To dislay on LCD|
+|HLR3|To display on LCD|
 
 ## Low level requirements
 |HLID|LLID|Description|
